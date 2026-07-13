@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3895-count-digit-appearances](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+## Math
+|  |
+| ------- |
+| [3895-count-digit-appearances](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 <!---LeetCode Topics End-->
