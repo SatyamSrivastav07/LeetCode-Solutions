@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [1873-calculate-special-bonus](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
