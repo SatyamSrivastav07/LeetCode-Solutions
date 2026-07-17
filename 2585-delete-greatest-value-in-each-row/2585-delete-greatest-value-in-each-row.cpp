@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int deleteGreatestValue(vector<vector<int>>& g) {
+       int  row =g.size();
+       int col = g[0].size(); 
+       int sum=0;
+       int max;
+      for(int i=0; i<row; i++){
+          sort(g[i].begin(),g[i].end());
+        }
+        for(int i=0; i<col; i++){ max=0;
+        for(int j=0; j<row; j++){
+         if(max<g[j][i]){
+             max=g[j][i];
+         }
+    }
+        sum+=max;
+    }
+  return sum;    
+    }
+};

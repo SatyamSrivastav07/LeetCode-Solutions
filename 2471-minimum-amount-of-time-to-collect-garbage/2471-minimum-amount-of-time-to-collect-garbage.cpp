@@ -1,0 +1,34 @@
+class Solution {
+    public:
+        int garbageCollection(vector<string>& garbage, vector<int>& travel) {
+            int sum = 0, mul = 0;
+            int p = 0, g = 0, m = 0;
+            for (int i = garbage.size() - 1; i > 0; i--) {
+                sum += garbage[i].length();
+                if (mul < 3) {
+                    for (int j = 0; j < garbage[i].length(); j++) {
+                        char ch = garbage[i][j];
+                        switch (ch) {
+                                    case 'P':
+                                    mul = p == 0 ? mul + 1 : mul;
+                                    p++;
+                                    break;
+                                    case 'G':
+                                    mul = g == 0 ? mul + 1 : mul;
+                                    g++;
+                                    break;
+                                    case 'M':
+                                    mul = m == 0 ? mul + 1 : mul;
+                                    m++;
+                                    break;
+                                    default:
+                                    break;
+                        }
+                    }
+                }
+                sum += mul * travel[i - 1];
+            }
+            sum += garbage[0].length();
+            return sum;
+    }
+};
