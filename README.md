@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3895-count-digit-appearances](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Number Theory
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0626-exchange-seats](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1873-calculate-special-bonus](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/1873-calculate-special-bonus) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
