@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
