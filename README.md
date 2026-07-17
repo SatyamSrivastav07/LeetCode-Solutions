@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1148-article-views-i](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/1693-daily-leads-and-partners) |
 | [1873-calculate-special-bonus](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/1873-calculate-special-bonus) |
 ## Two Pointers
 |  |
