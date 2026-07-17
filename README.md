@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0626-exchange-seats](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1873-calculate-special-bonus](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/1873-calculate-special-bonus) |
 ## Two Pointers
