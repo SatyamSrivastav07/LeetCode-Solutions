@@ -28,5 +28,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0626-exchange-seats](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1873-calculate-special-bonus](https://github.com/SatyamSrivastav07/LeetCode-Solutions/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
